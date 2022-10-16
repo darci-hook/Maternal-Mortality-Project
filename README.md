@@ -1,6 +1,6 @@
 # Maternal-Mortality-Project
 
-**This analysis is extremely personal and one that lies close to my heart.**❤️‍🩹🤰🏻🤱🏻<br/>
+**This analysis is extremely personal and one that lies close to my heart.** ❤️‍🩹🤰🏻🤱🏻<br/>
 
 I was almost one of the statistics in this analysis. After giving birth to healthy twins in 2015 I was bleeding internally and in excrutiating pain. All the nurses and doctors kept dismissing this as normal, even after telling them multiple times that I knew something was terribly wrong. After 4 hours of of unbearable pain it took my husband demanding a doctor examine me before anyone took action to address my pain. I will never forget the look on the doctor's face when he did finally examine me and the realization of how badly they had screwed up. I was rushed into emergency surgery and spent over 24 hours in the ICU recovering. I was one of the lucky ones but there are many, especially women of color, who are not so lucky. Even with all the advances in medicine, giving birth in the United States is still dangerous. While I feel there are many factors that contribute to this, a primary one I personally observed was the medical staff's neglect for my health after the babies were born. It is an all too common story that mother's feel like second class citizens after giving birth as all the attention moves to the health and well-being of the baby, often times at the expense of the mother's well-being.<br/>
 
