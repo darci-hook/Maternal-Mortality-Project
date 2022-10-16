@@ -16,8 +16,8 @@ While 94% of all maternal deaths occur in low and lower middle-income countries,
 
 **Data**<br/>
 
-Current Health Expenditure (% GDP) data<br/>
-https://data.worldbank.org/indicator/SH.XPD.CHEX.GD.ZS
+Current Health Expenditure Per Capita data<br/>
+https://data.worldbank.org/indicator/SH.XPD.CHEX.PC.CD<br/>
 
 **References**<br/>
 
