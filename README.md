@@ -12,20 +12,21 @@ According to the World Health Organization (https://www.who.int/news-room/fact-s
 -complications from delivery<br/>
 -unsafe abortion<br/>
 
-While 94% of all maternal deaths occur in low and lower middle-income countries, the United States continues to have higher maternal deaths compared to other developed countries. 
+While 94% of all maternal deaths occur in low and lower middle-income countries, the United States continues to have higher maternal deaths compared to other developed countries.  
 
-**Data**<br/>
+This analysis looks to examine 
+
+**Data Collection**<br/>
 
 Current Health Expenditure Per Capita data<br/>
 https://data.worldbank.org/indicator/SH.XPD.CHEX.PC.CD<br/>
 
 **References**<br/>
 
-Maternal Mortality Review Committee information-US
-https://www.guttmacher.org/state-policy/explore/maternal-mortality-review-committees?gclid=CjwKCAjwtKmaBhBMEiwAyINuwOVPX1hMKHfM1ojSHvI-8kJHuW84QtzASnIuUPawrVAixg3n1W71PxoCEdgQAvD_BwE
+Maternal Mortality Review Committee information-US<br/>
+https://www.guttmacher.org/state-policy/explore/maternal-mortality-review-committees?gclid=CjwKCAjwtKmaBhBMEiwAyINuwOVPX1hMKHfM1ojSHvI-8kJHuW84QtzASnIuUPawrVAixg3n1W71PxoCEdgQAvD_BwE<br/>
 
-Health and Health Care for Women of Reproductive Age<br/>
-How the United States Compares with Other High-Income Countries<br/>
+Health and Health Care for Women of Reproductive Age: How the United States Compares with Other High-Income Countries<br/>
 commonwealthfund.org/publications/issue-briefs/2022/apr/health-and-health-care-women-reproductive-age<br/>
 
 Maternal Health: Significant Strides but not Enough<br/>
