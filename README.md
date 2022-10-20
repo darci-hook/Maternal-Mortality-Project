@@ -18,6 +18,13 @@ This analysis looks to examine
 
 **Data Collection**<br/>
 
+UNICEF Data Warehouse<br/>
+https://data.unicef.org/dv_index/<br/>
+
+United Nations Development Programme<br/>
+Human Development Report (Human Development Index 1990-2022)<br/>
+https://hdr.undp.org/data-center/documentation-and-downloads<br/>
+
 Current Health Expenditure Per Capita data<br/>
 https://data.worldbank.org/indicator/SH.XPD.CHEX.PC.CD<br/>
 
