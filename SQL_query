@@ -1,0 +1,95 @@
+--Join Health Expenditure per Capita, Human Development Index (HDI), and Maternal Mortality data tables for 2012
+SELECT
+  mmd_2012.country, mmd_2012.maternal_deaths, mmd_2012.maternal_mortality_ratio, mmd_2012.percent_skilled_birth_attendant, hepc.hepc_2012 AS    health_exp_percapita, hdi.hdi_2012 AS hdi
+FROM maternal_mortality.mmd_2012 AS mmd_2012
+JOIN maternal_mortality.health_percapita AS hepc 
+  ON mmd_2012.country = hepc.Country_
+JOIN maternal_mortality.hdi AS hdi
+  ON mmd_2012.country = hdi.country
+ORDER BY mmd_2012.country;
+--Save results as BigQuery table 'mmd_comb_2012'
+--Edit Schema to add new field 'year'
+--Update table to add 2012 to all rows in year column
+UPDATE `portfolio-364622.maternal_mortality.mmd_comb_2012`
+SET year = 2012
+WHERE year IS NULL 
+
+--Join Health Expenditure per Capita, Human Development Index (HDI), and Maternal Mortality data tables for 2013
+SELECT
+  mmd_2013.country, mmd_2013.maternal_deaths, mmd_2013.maternal_mortality_ratio, mmd_2013.percent_skilled_birth_attendant, hepc.hepc_2013 AS    health_exp_percapita, hdi.hdi_2013 AS hdi
+FROM maternal_mortality.mmd_2013 AS mmd_2013
+JOIN maternal_mortality.health_percapita AS hepc 
+  ON mmd_2013.country = hepc.Country_
+JOIN maternal_mortality.hdi AS hdi
+  ON mmd_2013.country = hdi.country
+ORDER BY mmd_2013.country;
+--Save results as BigQuery table 'mmd_comb_2013'
+--Edit Schema to add new field 'year'
+--Update table to add 2013 to all rows in year column
+UPDATE `portfolio-364622.maternal_mortality.mmd_comb_2013`
+SET year = 2013
+WHERE year IS NULL 
+
+--Join Health Expenditure per Capita, Human Development Index (HDI), and Maternal Mortality data tables for 2014
+SELECT
+  mmd_2014.country, mmd_2014.maternal_deaths, mmd_2014.maternal_mortality_ratio, mmd_2014.percent_skilled_birth_attendant, hepc.hepc_2014 AS    health_exp_percapita, hdi.hdi_2014 AS hdi
+FROM maternal_mortality.mmd_2014 AS mmd_2014
+JOIN maternal_mortality.health_percapita AS hepc 
+  ON mmd_2014.country = hepc.Country_
+JOIN maternal_mortality.hdi AS hdi
+  ON mmd_2014.country = hdi.country
+ORDER BY mmd_2014.country;
+--Save results as BigQuery table 'mmd_comb_2014'
+--Edit Schema to add new field 'year'
+--Update table to add 2014 to all rows in year column
+UPDATE `portfolio-364622.maternal_mortality.mmd_comb_2014`
+SET year = 2014
+WHERE year IS NULL 
+
+--Join Health Expenditure per Capita, Human Development Index (HDI), and Maternal Mortality data tables for 2015
+SELECT
+  mmd_2015.country, mmd_2015.maternal_deaths, mmd_2015.maternal_mortality_ratio, mmd_2015.percent_skilled_birth_attendant, hepc.hepc_2015 AS    health_exp_percapita, hdi.hdi_2015 AS hdi
+FROM maternal_mortality.mmd_2015 AS mmd_2015
+JOIN maternal_mortality.health_percapita AS hepc 
+  ON mmd_2015.country = hepc.Country_
+JOIN maternal_mortality.hdi AS hdi
+  ON mmd_2015.country = hdi.country
+ORDER BY mmd_2015.country;
+--Save results as BigQuery table 'mmd_comb_2015'
+--Edit Schema to add new field 'year'
+--Update table to add 2015 to all rows in year column
+UPDATE `portfolio-364622.maternal_mortality.mmd_comb_2015`
+SET year = 2015
+WHERE year IS NULL 
+
+--Join Health Expenditure per Capita, Human Development Index (HDI), and Maternal Mortality data tables for 2016
+SELECT
+  mmd_2016.country, mmd_2016.maternal_deaths, mmd_2016.maternal_mortality_ratio, mmd_2016.percent_skilled_birth_attendant, hepc.hepc_2016 AS    health_exp_percapita, hdi.hdi_2016 AS hdi
+FROM maternal_mortality.mmd_2016 AS mmd_2016
+JOIN maternal_mortality.health_percapita AS hepc 
+  ON mmd_2016.country = hepc.Country_
+JOIN maternal_mortality.hdi AS hdi
+  ON mmd_2016.country = hdi.country
+ORDER BY mmd_2016.country;
+--Save results as BigQuery table 'mmd_comb_2016'
+--Edit Schema to add new field 'year'
+--Update table to add 2016 to all rows in year column
+UPDATE `portfolio-364622.maternal_mortality.mmd_comb_2016`
+SET year = 2016
+WHERE year IS NULL 
+
+--Join Health Expenditure per Capita, Human Development Index (HDI), and Maternal Mortality data tables for 2017
+SELECT
+  mmd_2017.country, mmd_2017.maternal_deaths, mmd_2017.maternal_mortality_ratio, mmd_2017.percent_skilled_birth_attendant, hepc.hepc_2017 AS    health_exp_percapita, hdi.hdi_2017 AS hdi
+FROM maternal_mortality.mmd_2017 AS mmd_2017
+JOIN maternal_mortality.health_percapita AS hepc 
+  ON mmd_2017.country = hepc.Country_
+JOIN maternal_mortality.hdi AS hdi
+  ON mmd_2017.country = hdi.country
+ORDER BY mmd_2017.country;
+--Save results as BigQuery table 'mmd_comb_2017'
+--Edit Schema to add new field 'year'
+--Update table to add 2017 to all rows in year column
+UPDATE `portfolio-364622.maternal_mortality.mmd_comb_2017`
+SET year = 2017
+WHERE year IS NULL 
